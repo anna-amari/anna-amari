@@ -1,5 +1,5 @@
 🌷🧸🎀
-I’m currently developing StudLife: An IT Academic Web App alongside my PersonalPortfolio and hopefully many more projects.<br>I’m also exploring and learning different tech stacks to discover the tools and technologies I feel most comfortable and productive working with.
+I’m currently developing different WebApp of my choice alongside my PersonalPortfolio and hopefully many more projects.<br>I’m also exploring and learning different tech stacks to discover the tools and technologies I feel most comfortable and productive working with.
 
 
 # 💻 Tech Stack:
